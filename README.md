@@ -29,8 +29,8 @@
 
 I'm a passionate **Full-Stack Developer** based in Cambodia 🇰🇭, dedicated to making programming education more accessible in the **Khmer language**.
 
-- 🏗️ **Founder** of [CodeKhmerLearning](https://codekhmerlearning.site) — Interactive coding education in Khmer *(Featured by Technology Cambodia)*
-- 🎬 **Founder** of [CodeKhmerVideo](https://codekhmervideo.site) — Video tutorials for Khmer developers · Powered by **PostgreSQL**
+- 🏗️ **Founder** of [Setec page](https://setec) — Interactive coding education in Khmer *(Featured by Technology Cambodia)*
+- 🎬 **Founder** of [setec page](https://setec) — Video tutorials for Khmer developers · Powered by **PostgreSQL**
 - 🔭 Currently building & scaling both platforms
 - 🌱 Deepening expertise in **FastAPI + PostgreSQL** microservices
 - 👯 Open to collaborate on **EdTech** & **Open Source Khmer Dev Tools**
@@ -69,9 +69,9 @@ I'm a passionate **Full-Stack Developer** based in Cambodia 🇰🇭, dedicated 
 
 | Platform | Link |
 |---|---|
-| 🌐 CodeKhmerLearning | [codekhmerlearning.site](https://codekhmerlearning.site) |
-| 📺 CodeKhmerVideo | [codekhmervideo.site](https://codekhmervideo.site) |
-| 🐙 GitHub | [@ThyMuoyhak](https://github.com/ThyMuoyhak) |
+| 🌐 CodeKhmerLearning | [linkweb](https://) |
+| 📺 CodeKhmerVideo | [linkweb](https://) |
+| 🐙 GitHub | [@Seseyhak](https://github.com/Sekseyhak1) |
 
 ---
 
