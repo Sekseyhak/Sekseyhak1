@@ -3,7 +3,7 @@
 
 
 
-# Hi there, I'm **Thy Muoyhak** (HakSimpleDev) 👋
+# Hi there, I'm **Sekseyhak** (Hak Ricky) 👋
 
 🇰🇭 Full-Stack Developer · Founder · Builder from Cambodia
 
