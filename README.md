@@ -71,7 +71,7 @@ I'm a passionate **Full-Stack Developer** based in Cambodia 🇰🇭, dedicated 
 |---|---|
 | 🌐 CodeKhmerLearning | [linkweb](https://) |
 | 📺 CodeKhmerVideo | [linkweb](https://) |
-| 🐙 GitHub | [@Seseyhak](https://github.com/Sekseyhak1) |
+| 🐙 GitHub | [@Sekseyhak](https://github.com/Sekseyhak1) |
 
 ---
 
@@ -85,9 +85,6 @@ I'm a passionate **Full-Stack Developer** based in Cambodia 🇰🇭, dedicated 
 # Hi there, I'm **Thy Muoyhak** (HakSimpleDev) 👋
 
 🇰🇭 Full-Stack Developer · Founder · Builder from Cambodia
-
-[![CodeKhmerLearning](https://img.shields.io/badge/🌐_CodeKhmerLearning-codekhmerlearning.site-0f6e56?style=flat-square)](https://codekhmerlearning.site)
-[![CodeKhmerVideo](https://img.shields.io/badge/📺_CodeKhmerVideo-codekhmervideo.site-185fa5?style=flat-square)](https://codekhmervideo.site)
 
 
 
@@ -148,9 +145,9 @@ I'm a passionate **Full-Stack Developer** based in Cambodia 🇰🇭, dedicated 
 
 | Platform | Link |
 |---|---|
-| 🌐 CodeKhmerLearning | [codekhmerlearning.site](https://codekhmerlearning.site) |
-| 📺 CodeKhmerVideo | [codekhmervideo.site](https://codekhmervideo.site) |
-| 🐙 GitHub | [@ThyMuoyhak](https://github.com/ThyMuoyhak) |
+| 🌐 CodeKhmerLearning | [](https://) |
+| 📺 CodeKhmerVideo | [](https://) |
+| 🐙 GitHub | [@Sekseyhak](https://github.com/Sekseyhak1) |
 
 ---
 
